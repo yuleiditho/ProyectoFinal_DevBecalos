@@ -45,7 +45,7 @@ El diseño de la página se inspiró en los siguientes ejemplos:
 ## Otros Detalles
 
 ### GitHub Pages
-Este proyecto está desplegado en *GitHub Pages*. Puedes ver la página web en vivo en el siguiente enlace: [Ver Proyecto en GitHub Pages](https://JulioEAN.github.io/ProyectBakery).
+Este proyecto está desplegado en *GitHub Pages*. Puedes ver la página web en vivo en el siguiente enlace: [Ver Proyecto en GitHub Pages](https://yuleiditho.github.io/ProyectoFinal_DevBecalos/).
 
 ### Notas Adicionales
 - Los cambios en el proyecto se gestionan mediante *Git*. Asegúrate de seguir las buenas prácticas de commit (mensajes claros y commits frecuentes) para mantener el proyecto organizado.
